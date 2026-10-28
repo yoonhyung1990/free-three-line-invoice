@@ -4,6 +4,8 @@ A small English-language invoice example for freelancers who want a local spread
 
 [Download the free XLSX](https://github.com/yoonhyung1990/free-three-line-invoice/raw/refs/heads/main/Free-Three-Line-Invoice.xlsx)
 
+Free companion guide: [manual payment follow-up examples and log](PAYMENT-FOLLOW-UP.md). The invoice file does not send reminders or track payments.
+
 ## Optional paid file
 
 I also sell a separately delivered [10-line invoice XLSX and English instructions](https://polisem.gumroad.com/l/offline-invoice-xlsx?utm_source=github&utm_medium=repo&utm_campaign=invoice_sample_20261028) for **$3 once, before any applicable tax**. The paid file uses the same general layout and calculations with 10 item rows rather than three. This free sample is usable without buying it. Other free templates and invoice tools are available, including [Zoho Invoice](https://www.zoho.com/invoice/pricing/) and [other free spreadsheet templates](https://github.com/invoicemaker/invoice-templates); compare the features before deciding.
